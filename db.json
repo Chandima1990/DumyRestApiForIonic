@@ -4,7 +4,7 @@
   "InStock": true,
   "Price": 250.00,
   "Manufacturer":"Cocacola Company (Pvt) Ltd",
-  "Description": {"1":"Sweetened carbonated beverage","2": "Refreshing drink.","3": "Contains caffiene.","4": "Contains no fruit"},
+  "Description": [{"Item":"Sweetened carbonated beverage"},{"Item": "Refreshing drink."},{"Item": "Contains caffiene."},{"Item": "Contains no fruit"}],
   "Title": "Cocacola 750ML"
 },
 {
@@ -13,6 +13,15 @@
   "InStock": false,
   "Price": 425.00,
   "Manufacturer":"The Body Shop",
-  "Description": {"1":"Gel-cream Body Yogurt","2": "Lightweight formula absorbs instantly","3": "Enriched with cactus flower extract from Morocco and Community Trade organic almond milk from Spain","4": "Uplifting fresh, fruity-floral scent","5":"100% vegan"},
+  "Description":[{"Item":"Gel-cream Body Yogurt"},{"Item": "Lightweight formula absorbs instantly"},{"Item": "Enriched with cactus flower extract from Morocco and Community Trade organic almond milk from Spain"},{"Item": "Uplifting fresh, fruity-floral scent"},{"Item":"100% vegan"}],
+  "Title": "The Body Shop Cactus Blossom Body Yogurt"
+},
+{
+  "Id":2,
+  "Image": "https://images-na.ssl-images-amazon.com/images/I/61os9OxjgXL._SL1287_.jpg",
+  "InStock": false,
+  "Price": 425.00,
+  "Manufacturer":"The Body Shop",
+  "Description":[{"Item":"Gel-cream Body Yogurt"},{"Item": "Lightweight formula absorbs instantly"},{"Item": "Enriched with cactus flower extract from Morocco and Community Trade organic almond milk from Spain"},{"Item": "Uplifting fresh, fruity-floral scent"},{"Item":"100% vegan"}],
   "Title": "The Body Shop Cactus Blossom Body Yogurt"
 }]
