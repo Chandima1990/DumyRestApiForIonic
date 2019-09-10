@@ -5,7 +5,7 @@
   "Price": 250.00,
   "Manufacturer":"Cocacola Company (Pvt) Ltd",
   "Description": [{"Item":"Sweetened carbonated beverage"},{"Item": "Refreshing drink."},{"Item": "Contains caffiene."},{"Item": "Contains no fruit"}],
-  "Title": "Cocacola 750ML",
+  "Title": "Cocacola 750ML"
 },
 {
   "Id":2,
@@ -14,7 +14,7 @@
   "Price": 425.00,
   "Manufacturer":"The Body Shop",
   "Description":[{"Item":"Gel-cream Body Yogurt"},{"Item": "Lightweight formula absorbs instantly"},{"Item": "Enriched with cactus flower extract from Morocco and Community Trade organic almond milk from Spain"},{"Item": "Uplifting fresh, fruity-floral scent"},{"Item":"100% vegan"}],
-  "Title": "The Body Shop Cactus Blossom Body Yogurt",
+  "Title": "The Body Shop Cactus Blossom Body Yogurt"
 },
 {
   "Id":3,
